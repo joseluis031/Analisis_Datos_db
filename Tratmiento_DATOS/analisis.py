@@ -24,8 +24,8 @@ plt.show()
 
 # Graficar un gráfico de barras con el promedio de puntajes por equipo
 plt.figure(figsize=(12, 6))
-sns.barplot(x='nombre', y='puntaje', data=df, ci=None, palette='viridis')
-plt.title('Puntaje Promedio por Equipo')
+sns.barplot(x='pais', y='puntaje', data=df, ci=None, palette='viridis')
+plt.title('Puntaje Promedio por Pais')
 plt.xlabel('nombre')
 plt.ylabel('Puntaje Promedio')
 plt.xticks(rotation=45, ha='right')
