@@ -10,7 +10,7 @@ df_partidos = pd.read_csv('tudataset_partidos.csv')  # Asegúrate de tener el ar
 
 # Crear columna de diferencia de puntajes y ventaja del equipo local
 df_partidos['diferencia_puntajes'] = df_partidos['puntaje_local'] - df_partidos['puntaje_visitante']
-df_partidos['ventaja_local'] = 3  # Puedes ajustar este valor según tu preferencia de ventaja local
+df_partidos['ventaja_local'] = 7  # Puedes ajustar este valor según tu preferencia de ventaja local
 
 # Seleccionar las características (features) y la variable objetivo (target)
 X = df_partidos[['diferencia_puntajes', 'ventaja_local']]
