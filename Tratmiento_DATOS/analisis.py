@@ -22,7 +22,7 @@ plt.xlabel('Puntaje')
 plt.ylabel('Frecuencia')
 plt.show()
 
-# Graficar un gráfico de barras con el promedio de puntajes por equipo
+# Graficar un gráfico de barras con el promedio de puntajes por pais
 plt.figure(figsize=(12, 6))
 sns.barplot(x='pais', y='puntaje', data=df, ci=None, palette='viridis')
 plt.title('Puntaje Promedio por Pais')

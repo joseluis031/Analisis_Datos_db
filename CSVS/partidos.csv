@@ -1,4 +1,4 @@
-id,fecha,equipo_local,equipo_visistante,finalizado,ganador
+id,fecha,equipo_local,equipo_visistante,finalizado,diferencia_puntaje
 1,2021-12-15 00:51:23.181740,29,2,0,
 2,2021-12-15 00:51:23.181740,31,19,0,
 3,2021-12-15 00:51:23.181740,25,24,0,
