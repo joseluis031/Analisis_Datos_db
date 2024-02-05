@@ -4,6 +4,15 @@ import sqlite3
 conn = sqlite3.connect('bookmaker_limpio.db')
 cursor = conn.cursor()
 
-cursor.execute("DELETE FROM partidos WHERE id >= 98")
+# Encontrar filas duplicadas y conservar la primera
+cursor.execute('''
+    DELETE FROM apuestas
+    WHERE ROWID NOT IN (
+        SELECT MIN(ROWID)
+        FROM apuestas
+        GROUP BY id
+    )
+''')
 
+# Confirmar y cerrar
 conn.commit()
