@@ -8,7 +8,6 @@ class AnalisisDatos:
     def __init__(self, carpeta_graficas='Graficas'):
         self.carpeta_graficas = carpeta_graficas
 
-        # Asegúrate de que la carpeta 'Graficas' exista o créala si no existe
         if not os.path.exists(self.carpeta_graficas):
             os.makedirs(self.carpeta_graficas)
 
@@ -36,7 +35,6 @@ class AnalisisDatos:
         plt.xlabel('Puntaje')
         plt.ylabel('Frecuencia')
         
-        # Guardar el gráfico
         self.guardar_grafico('distribucion_puntajes')
 
         plt.show()
@@ -49,7 +47,6 @@ class AnalisisDatos:
         plt.ylabel('Puntaje Promedio')
         plt.xticks(rotation=45, ha='right')
         
-        # Guardar el gráfico
         self.guardar_grafico(f'barra_promedio_{columna_categorica.lower()}')
 
         plt.show()
@@ -61,7 +58,6 @@ class AnalisisDatos:
         plt.xlabel('Puntaje')
         plt.ylabel(columna_categorica_numerica.capitalize())
         
-        # Guardar el gráfico
         self.guardar_grafico(f'regresion_lineal_{columna_categorica_numerica.lower()}')
 
         plt.show()
@@ -77,12 +73,10 @@ class AnalisisDatos:
         plt.title(f'Cantidad de Equipos por {columna_categorica.capitalize()} en la competición')
         plt.ylabel('')
         
-        # Guardar el gráfico
         self.guardar_grafico(f'diagrama_sectores_{columna_categorica.lower()}')
 
         plt.show()
 
-# Ejemplo de uso de la clase
 analisis = AnalisisDatos()
 ruta_csv = 'CSVS/equipos_modificado.csv'
 datos = analisis.cargar_datos(ruta_csv)
