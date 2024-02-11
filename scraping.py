@@ -12,8 +12,11 @@ html = pagina.content
 soup = BeautifulSoup(pagina.content, 'html.parser')
 
 # Buscamos el elemento que contiene los resultados
-resultados = soup.find('body')
+resultados = soup.find('div')
 #convertir a string
 resultados_str = resultados.prettify() 
 
-print(resultados_str)
+
+#creame un archivo html con el contenido de la pagina
+with open('web2.html', 'w', encoding='utf-8') as file:
+    file.write(resultados_str)
