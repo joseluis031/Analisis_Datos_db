@@ -1,126 +1,97 @@
 fase,equipo_local,goles_equipo_local,equipo_visitante,goles_equipo_visitante
-Grupos,Milan,0,Newcastle,0,
-Grupos,Young Boys,1,Leipzig,3,
-Grupos,PSG,2,Dortmund,0,
-Grupos,Shakhtar,1,Porto,3,
-Grupos,Manchester City,3,Estrella Roja,1,
-Grupos,Lazio,1,Atletico Madrid,1,
-Grupos,Barcelona,5,Antwerp,0,
-Grupos,Feyenoord,2,Celtic,0,
-Grupos,Real Madrid,1,Berlin,0,
-Grupos,Galatadary,2,Copenhague,2,
-Grupos,Bayern,4,Manchester United,3,
-Grupos,Benfica,0,Salzburgo,2,
-Grupos,Braga,1,Napoles,2,
-Grupos,Arsenal,4,PSV,0,
-Grupos,Sevilla,1,Lens,1,
-Grupos,Real Sociedad,1,Inter,1,
-Grupos,Berlin,2,Braga,3,
-Grupos,Salzburgo,0,Real Sociedad,2,
-Grupos,Inter,1,Benfica,0,
-Grupos,PSV,2,Sevilla,2,
-Grupos,Copenhague,1,Bayern,2,
-Grupos,Manchester United,2,Galatadary,3,
-Grupos,Napoles,2,Real Madrid,3,
-Grupos,Lens,2,Arsenal,1,
-Grupos,Atletico Madrid,3,Feyenoord,2,
-Grupos,Antwerp,2,Shakhtar,3,
-Grupos,Estrella Roja,2,Young Boys,2,
-Grupos,Dortmund,0,Milan,0,
-Grupos,Newcastle,4,PSG,1,
-Grupos,Leipzig,1,Manchester City,3,
-Grupos,Porto,0,Barcelona,1,
-Grupos,Celtic,1,Lazio,2,
-Grupos,Galatasaray,1,Bayern,3,
-Grupos,Inter,2,Salzburgo,1,
-Grupos,Berlin,0,Napoles,1,
-Grupos,Sevilla,1,Arsenal,2,
-Grupos,Braga,1,Real Madrid,2,
-Grupos,Lens,1,PSV,1,
-Grupos,Benfica,0,Real Sociedad,1,
-Grupos,Manchester United,1,Copenhague,0,
-Grupos,Barcelona,2,Shakhtar,1,
-Grupos,Feyenoord,3,Lazio,1,
-Grupos,Newcastle,0,Dortmund,1,
-Grupos,Leipzig,3,Estrella Roja,1,
-Grupos,Young Boys,1,Manchester City,3,
-Grupos,PSG,3,Milan,0,
-Grupos,Celtic,2,Atletico Madrid,2,
-Grupos,Antwerp,1,Porto,4,
-Grupos,Dortmund,2,Newcastle,0,
-Grupos,Shakhtar,1,Barcelona,0,
-Grupos,Lazio,1,Feyenoord,0,
-Grupos,Porto,2,Antwerp,0,
-Grupos,Manchester City,3,Young Boys,0,
-Grupos,Milan,2,PSG,1,
-Grupos,Atletico Madrid,6,Celtic,0,
-Grupos,Estrella Roja,1,Leipzig,2,
-Grupos,Real Sociedad,3,Benfica,1,
-Grupos,Napoles,1,Berlin,1,
-Grupos,Copenhague,4,Manchester United,3,
-Grupos,Salzburgo,0,Inter,1,
-Grupos,Bayern,2,Galatasaray,1,
-Grupos,Arsenal,2,Sevilla,0,
-Grupos,PSV,1,Lens,0,
-Grupos,Real Madrid,3,Braga,0,
-Grupos,Lazio,2,Celtic,0,
-Grupos,Shakhtar,1,Antwerp,0,
-Grupos,Milan,1,Dortmund,3,
-Grupos,Feyenoord,1,Atletico Madrid,3,
-Grupos,PSG,1,Newcastle,1,
-Grupos,Barcelona,2,Porto,1,
-Grupos,Young Boys,2,Estrella Roja,0,
-Grupos,Manchester City,3,Leipzig,2,
-Grupos,Galatasaray,3,Manchester United,3,
-Grupos,Sevilla,2,PSV,3,
-Grupos,Bayern,0,Copenhague,0,
-Grupos,Real Madrid,4,Napoles,2,
-Grupos,Real Sociedad,0,Salzburgo,0,
-Grupos,Braga,1,Berlin,1,
-Grupos,Arsenal,6,Lens,0,
-Grupos,Benfica,3,Inter,3,
-Grupos,Lens,2,Sevilla,1,
-Grupos,PSV,1,Arsenal,1,
-Grupos,Berlin,2,Real Madrid,3,
-Grupos,Salzburgo,1,Benfica,3,
-Grupos,Napoles,2,Braga,0,
-Grupos,Inter,0,Real Sociedad,0,
-Grupos,Copenhague,1,Galatasaray,0,
-Grupos,Manchester United,0,Bayern,1,
-Grupos,Leipzig,2,Young Boys,1,
-Grupos,Estrella Roja,2,Manchester City,3,
-Grupos,Antwerp,3,Barcelona,2,
-Grupos,Porto,5,Shakhtar,3,
-Grupos,Celtic,2,Feyenoord,1,
-Grupos,Dortmund,1,PSG,1,
-Grupos,Atletico Madrid,2,Lazio,0,
-Grupos,Newcastle,1,Milan,2,
-Octavos,Copenhague,,Manchester City,,
-Octavos,Leipzig,,Real Madrid,,
-Octavos,PSG,,Real Sociedad,,
-Octavos,Lazio,,Bayern,,
-Octavos,PSV,,Dortmund,,
-Octavos,Inter,,Atletico Madrid,,
-Octavos,Porto,,Arsenal,,
-Octavos,Napoles,,Barcelona,,
-Octavos,Bayern,,Lazio,,
-Octavos,Real Sociedad,,PSG,,
-Octavos,Manchester City,,Copenhague,,
-Octavos,Barcelona,,Napoles,,
-Octavos,Arsenal,,Porto,,
-Octavos,Atletico Madrid,,Inter,,
-Octavos,Dortmund,,PSV,,
-Octavos,Real Madrid,,Leipzig,,
-Cuartos,,,,,
-Cuartos,,,,,
-Cuartos,,,,,
-Cuartos,,,,,
-Cuartos,,,,,
-Cuartos,,,,,
-Cuartos,,,,,
-Cuartos,,,,,
-Semifinales,,,,,
-Semifinales,,,,,
-Semifinales,,,,,
-Semifinales,,,,,
-Final,,,,,
+Grupos,Milan,0,Newcastle,0
+Grupos,Young Boys,1,Leipzig,3
+Grupos,PSG,2,Dortmund,0
+Grupos,Shakhtar,1,Porto,3
+Grupos,Manchester City,3,Estrella Roja,1
+Grupos,Lazio,1,Atletico Madrid,1
+Grupos,Barcelona,5,Antwerp,0
+Grupos,Feyenoord,2,Celtic,0
+Grupos,Real Madrid,1,Berlin,0
+Grupos,Galatadary,2,Copenhague,2
+Grupos,Bayern,4,Manchester United,3
+Grupos,Benfica,0,Salzburgo,2
+Grupos,Braga,1,Napoles,2
+Grupos,Arsenal,4,PSV,0
+Grupos,Sevilla,1,Lens,1
+Grupos,Real Sociedad,1,Inter,1
+Grupos,Berlin,2,Braga,3
+Grupos,Salzburgo,0,Real Sociedad,2
+Grupos,Inter,1,Benfica,0
+Grupos,PSV,2,Sevilla,2
+Grupos,Copenhague,1,Bayern,2
+Grupos,Manchester United,2,Galatadary,3
+Grupos,Napoles,2,Real Madrid,3
+Grupos,Lens,2,Arsenal,1
+Grupos,Atletico Madrid,3,Feyenoord,2
+Grupos,Antwerp,2,Shakhtar,3
+Grupos,Estrella Roja,2,Young Boys,2
+Grupos,Dortmund,0,Milan,0
+Grupos,Newcastle,4,PSG,1
+Grupos,Leipzig,1,Manchester City,3
+Grupos,Porto,0,Barcelona,1
+Grupos,Celtic,1,Lazio,2
+Grupos,Galatasaray,1,Bayern,3
+Grupos,Inter,2,Salzburgo,1
+Grupos,Berlin,0,Napoles,1
+Grupos,Sevilla,1,Arsenal,2
+Grupos,Braga,1,Real Madrid,2
+Grupos,Lens,1,PSV,1
+Grupos,Benfica,0,Real Sociedad,1
+Grupos,Manchester United,1,Copenhague,0
+Grupos,Barcelona,2,Shakhtar,1
+Grupos,Feyenoord,3,Lazio,1
+Grupos,Newcastle,0,Dortmund,1
+Grupos,Leipzig,3,Estrella Roja,1
+Grupos,Young Boys,1,Manchester City,3
+Grupos,PSG,3,Milan,0
+Grupos,Celtic,2,Atletico Madrid,2
+Grupos,Antwerp,1,Porto,4
+Grupos,Dortmund,2,Newcastle,0
+Grupos,Shakhtar,1,Barcelona,0
+Grupos,Lazio,1,Feyenoord,0
+Grupos,Porto,2,Antwerp,0
+Grupos,Manchester City,3,Young Boys,0
+Grupos,Milan,2,PSG,1
+Grupos,Atletico Madrid,6,Celtic,0
+Grupos,Estrella Roja,1,Leipzig,2
+Grupos,Real Sociedad,3,Benfica,1
+Grupos,Napoles,1,Berlin,1
+Grupos,Copenhague,4,Manchester United,3
+Grupos,Salzburgo,0,Inter,1
+Grupos,Bayern,2,Galatasaray,1
+Grupos,Arsenal,2,Sevilla,0
+Grupos,PSV,1,Lens,0
+Grupos,Real Madrid,3,Braga,0
+Grupos,Lazio,2,Celtic,0
+Grupos,Shakhtar,1,Antwerp,0
+Grupos,Milan,1,Dortmund,3
+Grupos,Feyenoord,1,Atletico Madrid,3
+Grupos,PSG,1,Newcastle,1
+Grupos,Barcelona,2,Porto,1
+Grupos,Young Boys,2,Estrella Roja,0
+Grupos,Manchester City,3,Leipzig,2
+Grupos,Galatasaray,3,Manchester United,3
+Grupos,Sevilla,2,PSV,3
+Grupos,Bayern,0,Copenhague,0
+Grupos,Real Madrid,4,Napoles,2
+Grupos,Real Sociedad,0,Salzburgo,0
+Grupos,Braga,1,Berlin,1
+Grupos,Arsenal,6,Lens,0
+Grupos,Benfica,3,Inter,3
+Grupos,Lens,2,Sevilla,1
+Grupos,PSV,1,Arsenal,1
+Grupos,Berlin,2,Real Madrid,3
+Grupos,Salzburgo,1,Benfica,3
+Grupos,Napoles,2,Braga,0
+Grupos,Inter,0,Real Sociedad,0
+Grupos,Copenhague,1,Galatasaray,0
+Grupos,Manchester United,0,Bayern,1
+Grupos,Leipzig,2,Young Boys,1
+Grupos,Estrella Roja,2,Manchester City,3
+Grupos,Antwerp,3,Barcelona,2
+Grupos,Porto,5,Shakhtar,3
+Grupos,Celtic,2,Feyenoord,1
+Grupos,Dortmund,1,PSG,1
+Grupos,Atletico Madrid,2,Lazio,0
+Grupos,Newcastle,1,Milan,2
