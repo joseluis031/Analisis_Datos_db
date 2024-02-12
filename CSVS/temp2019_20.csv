@@ -11,7 +11,7 @@ Grupos,Club Brujas,0,Galatasaray,0
 Grupos,Olympiacos,2,Tottenham,2
 Grupos,Leverkusen,1,Lokomotiv Moscú,2
 Grupos,PSG,3,Real Madrid,0
-Grupos,Bayern Munich,3,Estrella Roja,0
+Grupos,Bayern,3,Estrella Roja,0
 Grupos,Atletico Madrid,2,Juventus,2
 Grupos,Shakhtar Donetsk,0,Manchester City,3
 Grupos,Dinamo Zagreb,4,Atalanta,0
@@ -20,10 +20,10 @@ Grupos,Real Madrid,2,Club Brujas,2
 Grupos,Manchester City,2,Dinamo Zagreb,0
 Grupos,Estrella Roja,3,Olympiacos,1
 Grupos,Lokomotiv Moscú,0,Atlético Madrid,2
-Grupos,Tottenham,2,Bayern Munich,7
+Grupos,Tottenham,2,Bayern,7
 Grupos,Juventus,3,Leverkusen,0
 Grupos,Galatasaray,0,PSG,1
-Grupos,Slavia Praga,0,Borussia Dortmund,2
+Grupos,Slavia Praga,0,Dortmund,2
 Grupos,Genk,0,Nápoles,0
 Grupos,Liverpool,4,Salzburgo,3
 Grupos,Lille,1,Chelsea,2
@@ -35,7 +35,7 @@ Grupos,Shakhtar Donetsk,2,Dinamo Zagreb,2
 Grupos,Atletico Madrid,1,Bayer Leverkusen,0
 Grupos,Manchester City,5,Atalanta,1
 Grupos,Galatasaray,0,Real Madrid,1
-Grupos,Olympiacos,2,Bayern Munich,3
+Grupos,Olympiacos,2,Bayern,3
 Grupos,Club Brujas,0,PSG,5
 Grupos,Tottenham,5,Estrella Roja,0
 Grupos,Juventus,2,Lokomotiv Moscú,1
@@ -44,7 +44,7 @@ Grupos,Leipzig,2,Zenit,1
 Grupos,Slavia Praga,1,Barcelona,2
 Grupos,Salzburgo,2,Nápoles,3
 Grupos,Genk,1,Liverpool,4
-Grupos,Inter,2,Borussia Dortmund,0
+Grupos,Inter,2,Dortmund,0
 Grupos,Lille,1,Valencia,1
 Grupos,Benfica,2,Lyon,1
 Grupos,Barcelona,0,Slavia Praga,0
@@ -54,8 +54,8 @@ Grupos,Nápoles,1,Salzburgo,1
 Grupos,Valencia,4,Lille,1
 Grupos,Lyon,3,Benfica,1
 Grupos,Chelsea,4,Ajax,4
-Grupos,Borussia Dortmund,3,Inter,2
-Grupos,Bayern Munich,2,Olympiacos,0
+Grupos,Dortmund,3,Inter,2
+Grupos,Bayern,2,Olympiacos,0
 Grupos,Lokomotiv Moscú,1,Juventus,2
 Grupos,Estrella Roja,0,Tottenham,4
 Grupos,Leverkusen,2,Atlético Madrid,1
@@ -69,7 +69,7 @@ Grupos,Real Madrid,2,PSG,2
 Grupos,Tottenham,4,Olympiacos,2
 Grupos,Manchester City,1,Shakhtar Donetsk,1
 Grupos,Juventus,1,Atlético Madrid,0
-Grupos,Estrella Roja,0,Bayern Munich,6
+Grupos,Estrella Roja,0,Bayern,6
 Grupos,Atalanta,2,Dinamo Zagreb,0
 Grupos,Zenit,2,Olympique Lyon,0
 Grupos,Valencia,2,Chelsea,2
@@ -78,10 +78,10 @@ Grupos,Lille,0,Ajax,2
 Grupos,Genk,1,Salzburgo,4
 Grupos,Liverpool,1,Nápoles,1
 Grupos,Leipzig,2,Benfica,2
-Grupos,Barcelona,3,Borussia Dortmund,1
+Grupos,Barcelona,3,Dortmund,1
 Grupos,Salzburgo,0,Liverpool,2
 Grupos,Nápoles,4,Genk,0
-Grupos,Borussia Dortmund,2,Slavia Praga,1
+Grupos,Dortmund,2,Slavia Praga,1
 Grupos,Chelsea,2,Lille,1
 Grupos,Lyon,2,Leipzig,2
 Grupos,Benfica,3,Zenit,0
@@ -94,13 +94,13 @@ Grupos,Atletico Madrid,2,Lokomotiv Moscú,0
 Grupos,Leverkusen,0,Juventus,2
 Grupos,PSG,5,Galatasaray,0
 Grupos,Olympiacos,1,Estrella Roja,0
-Grupos,Bayern Munich,3,Tottenham,1
+Grupos,Bayern,3,Tottenham,1
 Octavos,Atletico Madrid,1,Liverpool,0
 Octavos,Dortmund,2,PSG,1
 Octavos,Atalanta,4,Valencia,1
 Octavos,Tottenham,0,Leipzig,1
 Octavos,Nápoles,1,Barcelona,1
-Octavos,Chelsea,0,Bayern Munich,3
+Octavos,Chelsea,0,Bayern,3
 Octavos,Lyon,1,Juventus,0
 Octavos,Real Madrid,1,Manchester City,2
 Octavos,PSG,2,Dortmund,0
@@ -110,11 +110,11 @@ Octavos,Liverpool,2,Atletico Madrid,3
 Octavos,Manchester City,2,Real Madrid,1
 Octavos,Juventus,2,Lyon,1
 Octavos,Barcelona,3,Nápoles,1
-Octavos,Bayern Munich,4,Chelsea,1
+Octavos,Bayern,4,Chelsea,1
 Cuartos,Atalanta,1,PSG,2
 Cuartos,Leipzig,2,Atletico Madrid,1
-Cuartos,Barcelona,2,Bayern Munich,8
+Cuartos,Barcelona,2,Bayern,8
 Cuartos,Manchester City,1,Lyon,3
 Semifinales,PSG,3,Leipzig,0
-Semifinales,Lyon,0,Bayern Munich,3
-Final,PSG,0,Bayern Munich,1
+Semifinales,Lyon,0,Bayern,3
+Final,PSG,0,Bayern,1
