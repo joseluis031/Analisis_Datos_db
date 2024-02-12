@@ -72,4 +72,4 @@ tabla_goles = pd.DataFrame({
 })
 
 print(tabla_goles)
-tabla_goles.to_csv('tabla_goles.csv', index=False)
+tabla_goles.to_csv('CSVS STATS/tabla_goles.csv', index=False)
