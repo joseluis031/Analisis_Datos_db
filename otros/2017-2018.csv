@@ -1,0 +1,126 @@
+idpartido,fase,equipo_local,equipo_visitante,goles_equipo_local,goles_equipo_visitante
+1,grupos,manchester united,basilea,3,0
+2,grupos,benfica,cska moscú,1,2
+3,grupos,Bayern,anderlecht,3,0
+4,grupos,celtic,PSG,0,5
+5,grupos,chelsea,qarabag,6,0
+6,grupos,roma,Atletico Madrid,0,0
+7,grupos,barcelona,juventus,3,0
+8,grupos,olympiacos,sporting lisboa,2,3
+9,grupos,liverpool,sevilla,2,2
+10,grupos,shakhtar donetsk,nápoles,2,1
+11,grupos,oporto,besiktas,1,3
+12,grupos,Real Madrid,apoel,3,0
+13,grupos,feyenoord,Manchester City,0,4
+14,grupos,Leipzig,mónaco,1,1
+15,grupos,tottenham,Dortmund,3,1
+16,grupos,maribor,spartak moscú,1,1
+17,grupos,basilea,benfica,5,0
+18,grupos,cska moscú,manchester united,1,4
+19,grupos,PSG,Bayern,3,0
+20,grupos,anderlecht,celtic,0,3
+21,grupos,Atletico Madrid,chelsea,1,2
+22,grupos,qarabag,roma,1,2
+23,grupos,juventus,olympiacos,2,0
+24,grupos,sporting lisboa,barcelona,0,1
+25,grupos,besiktas,Leipzig,2,0
+26,grupos,Dortmund,Real Madrid,1,3
+27,grupos,apoel,tottenham,0,3
+28,grupos,Manchester City,shakhtar donetsk,2,0
+29,grupos,nápoles,feyenoord,3,1
+30,grupos,sporting moscú,liverpool,1,1
+31,grupos,sevilla,maribor,3,0
+32,grupos,sporting,Leipzig,3,2
+33,grupos,chelsea,roma,3,3
+34,grupos,cska moscú,basilea,0,2
+35,grupos,benfica,manchester united,0,1
+36,grupos,Bayern,celtic,3,0
+37,grupos,juventus,sporting lisboa,2,1
+38,grupos,olympiacos,barcelona,0,0
+39,grupos,anderlecht,PSG,0,4
+40,grupos,sevilla,spartak moscú,2,1
+41,grupos,maribor,liverpool,0,7
+42,grupos,shakhtar donetsk,feyenoord,3,1
+43,grupos,nápoles,Manchester City,2,4
+44,grupos,besiktas,monaco,1,1
+45,grupos,porto,Leipzig,3,1
+46,grupos,Real Madrid,tottenham,1,1
+47,grupos,apoel,Dortmund,1,1
+48,grupos,Leipzig,porto,3,2
+49,grupos,basilea,cska moscú,1,2
+50,grupos,manchester united,benfica,2,0
+51,grupos,celtic,Bayern,1,2
+52,grupos,roma,chelsea,3,0
+53,grupos,PSG,anderlecht,5,0
+54,grupos,barcelona,olympiacos,3,1
+55,grupos,sporting lisboa,juventus,1,1
+56,grupos,liverpool,maribor,3,0
+57,grupos,feyenoord,shakhtar donetsk,1,2
+58,grupos,Manchester City,nápoles,2,1
+59,grupos,monaco,besiktas,1,2
+60,grupos,tottenham,Real Madrid,3,1
+61,grupos,spartak moscú,sevilla,5,1
+62,grupos,Leipzig,porto,3,1
+63,grupos,Dortmund,apoel,1,1
+64,grupos,sporting,olympiacos,3,1
+65,grupos,cska moscú,benfica,2,0
+66,grupos,basilea,manchester united,1,0
+67,grupos,anderlecht,Bayern,1,2
+68,grupos,celtic,PSG,1,7
+69,grupos,Atletico Madrid,roma,2,0
+70,grupos,chelsea,qarabag,4,0
+71,grupos,juventus,barcelona,0,0
+72,grupos,sporting lisboa,olympiacos,3,1
+73,grupos,feyenoord,nápoles,2,1
+74,grupos,Leipzig,besiktas,1,2
+75,grupos,tottenham,apoel,3,0
+76,grupos,liverpool,spartak moscú,7,0
+77,grupos,maribor,sevilla,1,1
+78,grupos,porto,monaco,5,2
+79,grupos,shakhtar donetsk,Manchester City,2,1
+80,grupos,Real Madrid,Dortmund,3,2
+81,grupos,Bayern,PSG,3,1
+82,grupos,anderlecht,cska moscú,1,2
+83,grupos,benfica,basilea,0,2
+84,grupos,manchester united,cska moscú,2,1
+85,grupos,PSG,celtic,7,1
+86,grupos,roma,qarabag,1,0
+87,grupos,Atletico Madrid,chelsea,1,2
+88,grupos,sporting lisboa,barcelona,0,1
+89,grupos,olympiacos,juventus,0,2
+90,grupos,spartak moscú,feyenoord,1,1
+91,grupos,nápoles,feyenoord,3,1
+92,grupos,maribor,sevilla,1,1
+93,grupos,Leipzig,besiktas,1,2
+94,grupos,tottenham,Real Madrid,3,1
+95,grupos,liverpool,spartak moscú,7,0
+96,grupos,shakhtar donetsk,Manchester City,2,1
+97,octavos,juventus,tottenham,2,2
+98,octavos,basilea,Manchester City,0,4
+99,octavos,porto,liverpool,0,5
+100,octavos,sevilla,manchester united,0,0
+101,octavos,Real Madrid,PSG,3,1
+102,octavos,chelsea,barcelona,1,1
+103,octavos,Bayern,besiktas,5,0
+104,octavos,shakhtar donetsk,roma,2,1
+105,octavos,tottenham,juventus,1,2
+106,octavos,Manchester City,basilea,1,2
+107,octavos,liverpool,porto,0,0
+108,octavos,manchester united,sevilla,1,2
+109,octavos,PSG,Real Madrid,1,2
+110,octavos,barcelona,chelsea,3,0
+111,octavos,besiktas,Bayern,1,3
+112,octavos,roma,shakhtar donetsk,1,0
+113,cuartos,liverpool,Manchester City,3,0
+114,cuartos,barcelona,roma,4,1
+115,cuartos,sevilla,Bayern,1,2
+116,cuartos,juventus,Real Madrid,0,3
+117,cuartos,Manchester City,liverpool,1,2
+118,cuartos,roma,barcelona,3,0
+119,cuartos,Bayern,sevilla,0,0
+120,cuartos,Real Madrid,juventus,1,3
+121,semifinales,liverpool,roma,5,2
+122,semifinales,Bayern,Real Madrid,1,2
+123,semifinales,roma,liverpool,4,2
+124,semifinales,Real Madrid,Bayern,2,2
+125,final,Real Madrid,liverpool,3,1
