@@ -4,17 +4,14 @@ import os
 # Cargar los datos de los archivos CSV
 resultados_actual = pd.read_csv('Eliminatoria actual/eliminatoria.csv')
 
-csv_folder = 'CSVS'
-csv_files = [file for file in os.listdir(csv_folder) if file.endswith('.csv')]
+# Especifica el nombre del archivo CSV que deseas cargar
+csv_file = 'CSVS/temp2023_24.csv'  # Reemplaza 'nombre_del_archivo.csv' con el nombre real del archivo
 
-# Inicializar DataFrames vacíos para almacenar los resultados anteriores
-resultados_anterior = pd.DataFrame()
+# Ruta completa al archivo CSV
+file_path = csv_file
 
-# Cargar y concatenar todos los archivos CSV en uno solo
-for csv_file in csv_files:
-    file_path = os.path.join(csv_folder, csv_file)
-    df = pd.read_csv(file_path)
-    resultados_anterior = pd.concat([resultados_anterior, df])
+# Leer el archivo CSV en un DataFrame
+resultados_anterior = pd.read_csv(file_path)
 
 # Equipos en octavos de final de la temporada actual
 equipos_octavos_local = resultados_actual[resultados_actual['fase'] == 'Octavos']['equipo_local'].tolist()
@@ -72,4 +69,4 @@ tabla_goles = pd.DataFrame({
 })
 
 print(tabla_goles)
-tabla_goles.to_csv('CSVS STATS/tabla_goles.csv', index=False)
+tabla_goles.to_csv('CSVS STATS/tabla_goles_temp_actual.csv', index=False)
