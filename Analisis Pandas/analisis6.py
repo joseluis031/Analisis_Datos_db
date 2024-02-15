@@ -76,4 +76,4 @@ for equipo in equipos_clasificados:
 print(resultados_df[['equipo', 'victorias', 'empates', 'derrotas', 'porcentaje_victorias', 'porcentaje_empates', 'porcentaje_derrotas']])
 
 # Guardar el DataFrame con los resultados en un archivo CSV
-resultados_df.to_csv('CSVS STATS/resultados_ultimas10_temp.csv', index=False)
+resultados_df.to_csv('CSVS STATS/resultados2_ultimas10_temp.csv', index=False)

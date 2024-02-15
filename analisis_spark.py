@@ -4,7 +4,7 @@ from pyspark.sql import SparkSession
 spark = SparkSession.builder.appName("ejemplo_csv").getOrCreate()
 
 # Ruta al archivo CSV
-archivo_csv = "ruta/al/tu/archivo.csv"
+archivo_csv = "CSVS/temp2019_20.csv"
 
 # Lee el archivo CSV en un DataFrame de Spark
 dataframe = spark.read.csv(archivo_csv, header=True, inferSchema=True)

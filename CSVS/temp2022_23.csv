@@ -1,0 +1,126 @@
+id_partido,equipo_local,equipo_visitante,resultado_final,fase,resultado_ida,resultado_vuelta,goles_equipo_local,goles_equipo_visitante
+1,Leipzig,Shakhtar Donetsk,1-4,Grupos,,,1,4
+2,Benfica,Maccabi Haifa,2-0,Grupos,,,2,0
+3,PSG,Juventus,2-1,Grupos,,,2,1
+4,Sevilla,Manchester City,0-4,Grupos,,,0,4
+5,Celtic,Real Madrid,0-3,Grupos,,,0,3
+6,Red Bull Salzburg,Milan,1-1,Grupos,,,1,1
+7,Dortmund,Kobenhavn,3-0,Grupos,,,3,0
+8,Dinamo Zagreb,Chelsea,1-0,Grupos,,,1,0
+9,Eintracht Frankfurt,Sporting de Portugal,0-3,Grupos,,,0,3
+10,Napoles,Liverpool,4-1,Grupos,,,4,1
+11,Atletico Madrid,Porto,2-1,Grupos,,,2,1
+12,Brugge,Bayer Leverkusen,1-0,Grupos,,,1,0
+13,Barcelona,Viktoria Plzeň,5-1,Grupos,,,5,1
+14,Inter,Bayern,0-2,Grupos,,,0,2
+15,Tottenham,Olympique de Marseille,2-0,Grupos,,,2,0
+16,Ajax,Rangers,4-0,Grupos,,,4,0
+17,Porto,Brugge,0-4,Grupos,,,0,4
+18,Olympique de Marseille,Eintracht Frankfurt,0-1,Grupos,,,0,1
+19,Bayern,Barcelona,2-0,Grupos,,,2,0
+20,Bayer Leverkusen,Atletico Madrid,2-0,Grupos,,,2,0
+21,Viktoria Plzeň,Inter,0-2,Grupos,,,0,2
+22,Sporting de Portugal,Tottenham,2-0,Grupos,,,2,0
+23,Liverpool,Ajax,2-1,Grupos,,,2,1
+24,Manchester City,Dortmund,2-1,Grupos,,,2,1
+25,Maccabi Haifa,PSG,1-3,Grupos,,,1,3
+26,Juventus,Benfica,1-2,Grupos,,,1,2
+27,Kobenhavn,Sevilla,0-0,Grupos,,,0,0
+28,Real Madrid,Leipzig,2-0,Grupos,,,2,0
+29,Chelsea,Red Bull Salzburg,1-1,Grupos,,,1,1
+30,Rangers,Napoles,0-3,Grupos,,,0,3
+31,Shakhtar Donetsk,Celtic,1-1,Grupos,,,1,1
+32,Milan,Dinamo Zagreb,3-1,Grupos,,,3,1
+33,Eintracht Frankfurt,Tottenham,0-0,Grupos,,,0,0
+34,Inter,Barcelona,1-0,Grupos,,,1,0
+35,Brugge,Atletico Madrid,2-0,Grupos,,,2,0
+36,Porto,Bayer Leverkusen,2-0,Grupos,,,2,0
+37,Ajax,Napoles,1-6,Grupos,,,1,6
+38,Liverpool,Rangers,2-0,Grupos,,,2,0
+39,Olympique de Marseille,Sporting de Portugal,4-1,Grupos,,,4,1
+40,Bayern,Viktoria Plzeň,5-0,Grupos,,,5,0
+41,Leipzig,Celtic,3-1,Grupos,,,3,1
+42,Chelsea,Milan,3-0,Grupos,,,3,0
+43,Manchester City,Kobenhavn,5-0,Grupos,,,5,0
+44,Sevilla,Dortmund,1-4,Grupos,,,1,4
+45,Juventus,Maccabi Haifa,3-1,Grupos,,,3,1
+46,Benfica,PSG,1-1,Grupos,,,1,1
+47,Real Madrid,Shakhtar Donetsk,2-1,Grupos,,,2,1
+48,Red Bull Salzburg,Dinamo Zagreb,1-0,Grupos,,,1,0
+49,Kobenhavn,Manchester City,0-0,Grupos,,,0,0
+50,Maccabi Haifa,Juventus,2-0,Grupos,,,2,0
+51,Milan,Chelsea,0-2,Grupos,,,0,2
+52,Shakhtar Donetsk,Real Madrid,1-1,Grupos,,,1,1
+53,Celtic,Leipzig,0-2,Grupos,,,0,2
+54,Dortmund,Sevilla,1-1,Grupos,,,1,1
+55,PSG,Benfica,1-1,Grupos,,,1,1
+56,Dinamo Zagreb,Red Bull Salzburg,1-1,Grupos,,,1,1
+57,Viktoria Plzeň,Bayern,2-4,Grupos,,,2,4
+58,Atletico Madrid,Brugge,0-0,Grupos,,,0,0
+59,Sporting de Portugal,Olympique de Marseille,0-2,Grupos,,,0,2
+60,Tottenham,Eintracht Frankfurt,3-2,Grupos,,,3,2
+61,Barcelona,Inter,3-3,Grupos,,,3,3
+62,Napoles,Ajax,4-2,Grupos,,,4,2
+63,Bayer Leverkusen,Porto,0-3,Grupos,,,0,3
+64,Rangers,Liverpool,1-7,Grupos,,,1,7
+65,Red Bull Salzburg,Chelsea,1-2,Grupos,,,1,2
+66,Sevilla,Kobenhavn,3-0,Grupos,,,3,0
+67,Dinamo Zagreb,Milan,0-4,Grupos,,,0,4
+68,Celtic,Shakhtar Donetsk,1-1,Grupos,,,1,1
+69,Leipzig,Real Madrid,3-2,Grupos,,,3,2
+70,Dortmund,Manchester City,0-0,Grupos,,,0,0
+71,PSG,Maccabi Haifa,7-2,Grupos,,,7,2
+72,Benfica,Juventus,4-3,Grupos,,,4,3
+73,Eintracht Frankfurt,Olympique de Marseille,2-1,Grupos,,,2,1
+74,Ajax,Liverpool,0-3,Grupos,,,0,3
+75,Tottenham,Sporting de Portugal,1-1,Grupos,,,1,1
+76,Barcelona,Bayern,0-3,Grupos,,,0,3
+77,Atletico Madrid,Bayer Leverkusen,2-2,Grupos,,,2,2
+78,Napoles,Rangers,3-0,Grupos,,,3,0
+79,Inter,Viktoria Plzeň,4-0,Grupos,,,4,0
+80,Brugge,Porto,0-4,Grupos,,,0,4
+81,Bayer Leverkusen,Brugge,0-0,Grupos,,,0,0
+82,Olympique de Marseille,Tottenham,1-2,Grupos,,,1,2
+83,Sporting de Portugal,Eintracht Frankfurt,1-2,Grupos,,,1,2
+84,Bayern,Inter,2-0,Grupos,,,2,0
+85,Rangers,Ajax,1-3,Grupos,,,1,3
+86,Liverpool,Napoles,2-0,Grupos,,,2,0
+87,Viktoria Plzeň,Barcelona,2-4,Grupos,,,2,4
+88,Porto,Atletico Madrid,2-1,Grupos,,,2,1
+89,Chelsea,Dinamo Zagreb,2-1,Grupos,,,2,1
+90,Maccabi Haifa,Benfica,1-6,Grupos,,,1,6
+91,Juventus,PSG,1-2,Grupos,,,1,2
+92,Kobenhavn,Dortmund,1-1,Grupos,,,1,1
+93,Manchester City,Sevilla,3-1,Grupos,,,3,1
+94,Milan,Red Bull Salzburg,4-0,Grupos,,,4,0
+95,Real Madrid,Celtic,5-1,Grupos,,,5,1
+96,Shakhtar Donetsk,Leipzig,0-4,Grupos,,,0,4
+1,Real Madrid,Liverpool,,Octavos,5-2,1-0,5,2
+2,Liverpool,Real Madrid,,Octavos,0-1,2-5,0,1
+3,Dortmund,Chelsea,,Octavos,1-0,0-2,1,0
+4,Chelsea,Dortmund,,Octavos,2-0,0-1,2,0
+5,Leipzig,Manchester City,,Octavos,1-1,0-7,1,1
+6,Manchester City,Leipzig,,Octavos,7-0,1-1,7,0
+7,PSG,Bayern,,Octavos,0-1,0-2,0,1
+8,Bayern,PSG,,Octavos,2-0,1-0,2,0
+9,Milan,Tottenham,,Octavos,1-0,0-0,1,0
+10,Tottenham,Milan,,Octavos,0-0,0-1,0,0
+11,Eintracht Frankfurt,Napoles,,Octavos,0-2,0-3,0,2
+12,Napoles,Eintracht Frankfurt,,Octavos,3-0,2-0,3,0
+13,Brugge,Benfica,,Octavos,0-2,1-5,0,2
+14,Benfica,Brugge,,Octavos,5-1,2-0,5,1
+15,Inter,Porto,,Octavos,1-0,0-0,1,0
+16,Porto,Inter,,Octavos,0-0,0-1,0,0
+17,Real Madrid,Chelsea,,Cuartos,2-0,2-0,2,0
+18,Chelsea,Real Madrid,,Cuartos,0-2,0-2,0,2
+19,Manchester City,Bayern,,Cuartos,3-0,1-1,3,0
+20,Bayern,Manchester City,,Cuartos,1-1,0-3,1,1
+21,Milan,Napoles,,Cuartos,1-0,1-1,1,0
+22,Napoles,Milan,,Cuartos,1-1,0-1,1,1
+23,Benfica,Inter,,Cuartos,0-2,3-3,0,2
+24,Inter,Benfica,,Cuartos,3-3,2-0,3,3
+25,Real Madrid,Manchester City,,Semifinales,1-1,0-4,1,1
+26,Manchester City,Real Madrid,,Semifinales,4-0,1-1,4,0
+27,Milan,Inter,,Semifinales,0-2,0-1,0,2
+28,Inter,Milan,,Semifinales,1-0,2-0,1,0
+29,Manchester City,Inter,1-0,Final,,,1,0
