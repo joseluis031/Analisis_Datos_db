@@ -16,4 +16,3 @@ dataframe.show()
 # Por ejemplo, puedes filtrar, agrupar, realizar transformaciones, etc.
 
 # Cierra la sesión de Spark al finalizar
-spark.stop()
