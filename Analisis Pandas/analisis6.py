@@ -31,7 +31,7 @@ temporada_clasificados_octavos_df = temporada_df[
 ]
 
 # Contar las victorias, empates y derrotas para cada equipo clasificado en octavos
-resultados = {'equipo': [], 'victorias': [], 'empates': [], 'derrotas': [], 'victoriasxtemporada': [], 'empatesxtemp': [], 'derrotasxtemp': [],
+resultados = {'equipo': [], 'victorias': [], 'empates': [], 'derrotas': [],
               'porcentaje_victorias': [], 'porcentaje_empates': [], 'porcentaje_derrotas': []}
 
 # Crear un DataFrame con los resultados
@@ -62,9 +62,7 @@ for equipo in equipos_clasificados:
         'victorias': [victorias],
         'empates': [empates],
         'derrotas': [derrotas],
-        'victoriasxtemporada': [victorias_temporada + victorias],
-        'empatesxtemp': [empates_temporada + empates],
-        'derrotasxtemp': [derrotas_temporada + derrotas],
+        
         'porcentaje_victorias': [round((victorias / (victorias + empates + derrotas)) * 100, 1)],
         'porcentaje_empates': [round((empates / (victorias + empates + derrotas)) * 100, 1)],
         'porcentaje_derrotas': [round((derrotas / (victorias + empates + derrotas)) * 100, 1)]
@@ -76,4 +74,4 @@ for equipo in equipos_clasificados:
 print(resultados_df[['equipo', 'victorias', 'empates', 'derrotas', 'porcentaje_victorias', 'porcentaje_empates', 'porcentaje_derrotas']])
 
 # Guardar el DataFrame con los resultados en un archivo CSV
-resultados_df.to_csv('CSVS STATS/resultados2_ultimas10_temp.csv', index=False)
+resultados_df.to_csv('CSVS STATS/resultados_ultimas10_temp.csv', index=False)
