@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/usuario/OneDrive/Escritorio/Programaci%C3%B3n/Analisis_Datos_db/mlruns/0/ee2e8949bbf54c32b58a3d71f6e2b9dc/artifacts
+end_time: 1708257605882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee2e8949bbf54c32b58a3d71f6e2b9dc
+run_name: trusting-shrike-290
+run_uuid: ee2e8949bbf54c32b58a3d71f6e2b9dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708257601375
+status: 3
+tags: []
+user_id: usuario

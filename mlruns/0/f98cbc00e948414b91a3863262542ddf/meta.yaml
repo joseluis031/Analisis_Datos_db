@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/usuario/OneDrive/Escritorio/Programaci%C3%B3n/Analisis_Datos_db/mlruns/0/f98cbc00e948414b91a3863262542ddf/artifacts
+end_time: 1708256360918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f98cbc00e948414b91a3863262542ddf
+run_name: Entrenamiento del modelo
+run_uuid: f98cbc00e948414b91a3863262542ddf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708256353677
+status: 3
+tags: []
+user_id: usuario

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/usuario/OneDrive/Escritorio/Programaci%C3%B3n/Analisis_Datos_db/mlruns/0/8d6c1e63ced248afb55b6a218756d53b/artifacts
+end_time: 1708257806000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d6c1e63ced248afb55b6a218756d53b
+run_name: marvelous-cat-844
+run_uuid: 8d6c1e63ced248afb55b6a218756d53b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708257796277
+status: 3
+tags: []
+user_id: usuario

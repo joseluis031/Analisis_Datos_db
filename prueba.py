@@ -37,7 +37,17 @@ with mlflow.start_run(nested=True, run_name="Entrenamiento del modelo"):
 loaded_model = mlflow.sklearn.load_model(f"runs:/{run_id}/model")
 
 # Realizar predicciones en los datos del segundo CSV
-X_octavos = df_octavos[['porcentaje_victorias_ult10_temp', 'porcentaje_empates_ult10_temp', 'porcentaje_derrotas_ult10_temp', 'Golesxpartido Local_ult10_temp', 'Golesxpartido Visitante_ult10_temp']]
+required_columns = ['porcentaje_victorias_ult10_temp', 'porcentaje_empates_ult10_temp', 'porcentaje_derrotas_ult10_temp', 'Golesxpartido Local_ult10_temp', 'Golesxpartido Visitante_ult10_temp']
+print("Columnas disponibles en df_octavos:")
+print(df_octavos.columns)
+
+# Asegurarse de que las columnas existan en df_octavos
+for column in required_columns:
+    if column not in df_octavos.columns:
+        print(f"Error: La columna '{column}' no existe en df_octavos.")
+        exit(1)
+
+X_octavos = df_octavos[required_columns]
 predictions = loaded_model.predict(X_octavos)
 
 # Agregar las predicciones al DataFrame original de octavos de final

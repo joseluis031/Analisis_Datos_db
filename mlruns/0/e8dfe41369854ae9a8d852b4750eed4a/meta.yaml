@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/usuario/OneDrive/Escritorio/Programaci%C3%B3n/Analisis_Datos_db/mlruns/0/e8dfe41369854ae9a8d852b4750eed4a/artifacts
+end_time: 1708256517109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8dfe41369854ae9a8d852b4750eed4a
+run_name: nervous-hare-270
+run_uuid: e8dfe41369854ae9a8d852b4750eed4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708256512759
+status: 3
+tags: []
+user_id: usuario
