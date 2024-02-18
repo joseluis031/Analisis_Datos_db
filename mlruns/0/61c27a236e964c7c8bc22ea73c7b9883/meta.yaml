@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/usuario/OneDrive/Escritorio/Programaci%C3%B3n/Analisis_Datos_db/mlruns/0/61c27a236e964c7c8bc22ea73c7b9883/artifacts
+end_time: 1708170475017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61c27a236e964c7c8bc22ea73c7b9883
+run_name: enthused-kit-25
+run_uuid: 61c27a236e964c7c8bc22ea73c7b9883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708170474957
+status: 3
+tags: []
+user_id: usuario

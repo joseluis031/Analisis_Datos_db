@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/usuario/OneDrive/Escritorio/Programaci%C3%B3n/Analisis_Datos_db/mlruns/0/cc2ac6d4c5fd4d61ad8dbc17e3a43cf5/artifacts
+end_time: 1708170206655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc2ac6d4c5fd4d61ad8dbc17e3a43cf5
+run_name: upbeat-boar-959
+run_uuid: cc2ac6d4c5fd4d61ad8dbc17e3a43cf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708170206542
+status: 3
+tags: []
+user_id: usuario

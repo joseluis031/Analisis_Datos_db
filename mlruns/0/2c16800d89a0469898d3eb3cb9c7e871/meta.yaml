@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/usuario/OneDrive/Escritorio/Programaci%C3%B3n/Analisis_Datos_db/mlruns/0/2c16800d89a0469898d3eb3cb9c7e871/artifacts
+end_time: 1708170343482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c16800d89a0469898d3eb3cb9c7e871
+run_name: secretive-bat-862
+run_uuid: 2c16800d89a0469898d3eb3cb9c7e871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708170335631
+status: 3
+tags: []
+user_id: usuario

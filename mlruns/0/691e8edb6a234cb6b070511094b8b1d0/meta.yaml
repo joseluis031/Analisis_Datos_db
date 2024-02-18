@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/usuario/OneDrive/Escritorio/Programaci%C3%B3n/Analisis_Datos_db/mlruns/0/691e8edb6a234cb6b070511094b8b1d0/artifacts
+end_time: 1708170281704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 691e8edb6a234cb6b070511094b8b1d0
+run_name: gaudy-lark-862
+run_uuid: 691e8edb6a234cb6b070511094b8b1d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708170281645
+status: 3
+tags: []
+user_id: usuario

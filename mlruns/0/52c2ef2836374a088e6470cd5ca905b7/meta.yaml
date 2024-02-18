@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/usuario/OneDrive/Escritorio/Programaci%C3%B3n/Analisis_Datos_db/mlruns/0/52c2ef2836374a088e6470cd5ca905b7/artifacts
+end_time: 1708170494523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52c2ef2836374a088e6470cd5ca905b7
+run_name: judicious-gnat-388
+run_uuid: 52c2ef2836374a088e6470cd5ca905b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708170490219
+status: 3
+tags: []
+user_id: usuario

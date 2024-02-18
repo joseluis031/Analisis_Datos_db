@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/usuario/OneDrive/Escritorio/Programaci%C3%B3n/Analisis_Datos_db/mlruns/0/3baeec9e05c044c58d3d9b9dcc05e362/artifacts
+end_time: 1708170343540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3baeec9e05c044c58d3d9b9dcc05e362
+run_name: mysterious-goat-292
+run_uuid: 3baeec9e05c044c58d3d9b9dcc05e362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708170335558
+status: 3
+tags: []
+user_id: usuario
