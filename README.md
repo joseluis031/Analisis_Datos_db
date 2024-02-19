@@ -11,3 +11,4 @@ El link de este repositorio es el siguiente: [GitHub](https://github.com/joselui
 6. La carpeta de la Primera entrega tiene algunos analisis de los datos del primer codigo de Api_casa_Apuestas antes de saber hacia donde habia que orientar el analisis
 7. La carpeta prueba no tiene nada acabado, estoy intentando llevar todo tipo de analisis al servidor local de MLFlow pero todavia no hay nada útil
 8. Los siguientes archivos.ipynb contienen diferentes análisis de los datos de los csvs
+9. requirements.txt con las librerias necesarias para poder ejecutar los codigos
