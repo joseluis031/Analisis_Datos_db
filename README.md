@@ -10,5 +10,5 @@ El link de este repositorio es el siguiente: [GitHub](https://github.com/joselui
 5. La carpeta No entregar contiene un scraping que no llegue a acabar del todo porque me daba algun problema y ya tenia de la semana anterior los csvs tal y como queria
 6. La carpeta de la Primera entrega tiene algunos analisis de los datos del primer codigo de Api_casa_Apuestas antes de saber hacia donde habia que orientar el analisis
 7. La carpeta prueba no tiene nada acabado, estoy intentando llevar todo tipo de analisis al servidor local de MLFlow pero todavia no hay nada útil
-8. Los siguientes archivos.ipynb contienen diferentes análisis de los datos de los csvs
+8. Los siguientes archivos.ipynb ("analisis.ipynb" para sacar dataframes y  guardar csvs de estadisticas,"analisis_grafico.ipynb" para ver graficas interesantes de mis csvs,"analisis_madrid.ipynb" para ver graficas comparativas entre estadisticas del real madrid vs resto de equipos y "modelo.ipynb" donde se puede observar la precisión del modelo)contienen diferentes análisis de los datos de los csvs
 9. requirements.txt con las librerias necesarias para poder ejecutar los codigos
