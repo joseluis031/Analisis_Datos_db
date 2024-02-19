@@ -95,32 +95,32 @@ id_partido,equipo_local,equipo_visitante,resultado_final,fase,resultado_ida,resu
 94,Milan,Red Bull Salzburg,4-0,Grupos,,,4,0
 95,Real Madrid,Celtic,5-1,Grupos,,,5,1
 96,Shakhtar Donetsk,Leipzig,0-4,Grupos,,,0,4
-1,Real Madrid,Liverpool,,Octavos,5-2,1-0,5,2
-2,Liverpool,Real Madrid,,Octavos,0-1,2-5,0,1
-3,Dortmund,Chelsea,,Octavos,1-0,0-2,1,0
-4,Chelsea,Dortmund,,Octavos,2-0,0-1,2,0
-5,Leipzig,Manchester City,,Octavos,1-1,0-7,1,1
-6,Manchester City,Leipzig,,Octavos,7-0,1-1,7,0
-7,PSG,Bayern,,Octavos,0-1,0-2,0,1
-8,Bayern,PSG,,Octavos,2-0,1-0,2,0
-9,Milan,Tottenham,,Octavos,1-0,0-0,1,0
-10,Tottenham,Milan,,Octavos,0-0,0-1,0,0
-11,Eintracht Frankfurt,Napoles,,Octavos,0-2,0-3,0,2
-12,Napoles,Eintracht Frankfurt,,Octavos,3-0,2-0,3,0
-13,Brugge,Benfica,,Octavos,0-2,1-5,0,2
-14,Benfica,Brugge,,Octavos,5-1,2-0,5,1
-15,Inter,Porto,,Octavos,1-0,0-0,1,0
-16,Porto,Inter,,Octavos,0-0,0-1,0,0
-17,Real Madrid,Chelsea,,Cuartos,2-0,2-0,2,0
-18,Chelsea,Real Madrid,,Cuartos,0-2,0-2,0,2
-19,Manchester City,Bayern,,Cuartos,3-0,1-1,3,0
-20,Bayern,Manchester City,,Cuartos,1-1,0-3,1,1
-21,Milan,Napoles,,Cuartos,1-0,1-1,1,0
-22,Napoles,Milan,,Cuartos,1-1,0-1,1,1
-23,Benfica,Inter,,Cuartos,0-2,3-3,0,2
-24,Inter,Benfica,,Cuartos,3-3,2-0,3,3
-25,Real Madrid,Manchester City,,Semifinales,1-1,0-4,1,1
-26,Manchester City,Real Madrid,,Semifinales,4-0,1-1,4,0
-27,Milan,Inter,,Semifinales,0-2,0-1,0,2
-28,Inter,Milan,,Semifinales,1-0,2-0,1,0
-29,Manchester City,Inter,1-0,Final,,,1,0
+97,Real Madrid,Liverpool,,Octavos,5-2,1-0,5,2
+98,Liverpool,Real Madrid,,Octavos,0-1,2-5,0,1
+99,Dortmund,Chelsea,,Octavos,1-0,0-2,1,0
+100,Chelsea,Dortmund,,Octavos,2-0,0-1,2,0
+101,Leipzig,Manchester City,,Octavos,1-1,0-7,1,1
+102,Manchester City,Leipzig,,Octavos,7-0,1-1,7,0
+103,PSG,Bayern,,Octavos,0-1,0-2,0,1
+104,Bayern,PSG,,Octavos,2-0,1-0,2,0
+105,Milan,Tottenham,,Octavos,1-0,0-0,1,0
+106,Tottenham,Milan,,Octavos,0-0,0-1,0,0
+107,Eintracht Frankfurt,Napoles,,Octavos,0-2,0-3,0,2
+108,Napoles,Eintracht Frankfurt,,Octavos,3-0,2-0,3,0
+109,Brugge,Benfica,,Octavos,0-2,1-5,0,2
+110,Benfica,Brugge,,Octavos,5-1,2-0,5,1
+111,Inter,Porto,,Octavos,1-0,0-0,1,0
+1112,Porto,Inter,,Octavos,0-0,0-1,0,0
+113,Real Madrid,Chelsea,,Cuartos,2-0,2-0,2,0
+114,Chelsea,Real Madrid,,Cuartos,0-2,0-2,0,2
+115,Manchester City,Bayern,,Cuartos,3-0,1-1,3,0
+116,Bayern,Manchester City,,Cuartos,1-1,0-3,1,1
+117,Milan,Napoles,,Cuartos,1-0,1-1,1,0
+118,Napoles,Milan,,Cuartos,1-1,0-1,1,1
+119,Benfica,Inter,,Cuartos,0-2,3-3,0,2
+120,Inter,Benfica,,Cuartos,3-3,2-0,3,3
+121,Real Madrid,Manchester City,,Semifinales,1-1,0-4,1,1
+122,Manchester City,Real Madrid,,Semifinales,4-0,1-1,4,0
+123,Milan,Inter,,Semifinales,0-2,0-1,0,2
+124,Inter,Milan,,Semifinales,1-0,2-0,1,0
+125,Manchester City,Inter,1-0,Final,,,1,0
